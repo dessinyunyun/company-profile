@@ -1,13 +1,17 @@
 .slides img {
-    filter: brightness(.7);
+  filter: brightness(0.7);
 }
 
-.parallax-container{
-    height: 50%;
+.parallax-container {
+  height: 50%;
+}
+
+.brand-logo {
+  font-size: 5px;
 }
 
 .about {
-    min-height: 400px;
+  min-height: 400px;
 }
 
 /* .parallax  {
@@ -15,6 +19,5 @@
 } */
 
 section {
-    padding: 20px 0;
+  padding: 20px 0;
 }
-
